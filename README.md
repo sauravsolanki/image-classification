@@ -64,7 +64,7 @@ Dataset consists of 3 folders Training, Validation and Testing which have 6 diff
 
 3. Results:
 
-![Result](img/graph.png)
+![Result](img/graph2.png)
 
 
 ## Inference Image
